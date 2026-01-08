@@ -124,4 +124,6 @@ riassunto delle autorizzazioni per ciascun endpoint:
 
  5) Ricorda che per ogni sessione devi caricare l'immagine profilo su postman nella sezione body, metti in key "file" e su "value" fa upload
 
+ 7) Dentro la cartella c'è un file json "ProjectBackend_e-commerce(settore idraulico).postman_collection.json" in cui ci sono tutti gli endpoint per testare il backend
+
 
