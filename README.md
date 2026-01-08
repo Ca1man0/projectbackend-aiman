@@ -120,4 +120,8 @@ riassunto delle autorizzazioni per ciascun endpoint:
   - /api/users/{id} - DELETE --> admin o superadmin
   - /api/users/{id}/profile-image - PATCH --> proprietario o superadmin
 
+ 4) Stai attento quando usi postman, ovvero in base ai permessi sopra devi gestire il tuo id di riferimento, ovvero devi ricordati il proprio id o quello in cui hai intenzione di fare un'attività (ad esempio upload di un'immagine), quindi è meglio tenere la tabella su pgadmin degli user aperta
+
+ 5) Ricorda che per ogni sessione devi caricare l'immagine profilo su postman nella sezione body, metti in key "file" e su "value" fa upload
+
 
