@@ -126,4 +126,6 @@ riassunto delle autorizzazioni per ciascun endpoint:
 
  7) Dentro la cartella c'è un file json "ProjectBackend_e-commerce(settore idraulico).postman_collection.json" in cui ci sono tutti gli endpoint per testare il backend
 
+ 8) Ho caricato anche l'immagine di prova "Immagine di prova caricamento.jpg" così avrete la possibilità di testare il carimento con Cloudinary
+
 
